@@ -140,7 +140,7 @@ int main() {
 ```
 # OUTPUT:
 
-![Uploading image.png…]()
+<img width="1485" height="701" alt="image" src="https://github.com/user-attachments/assets/3c3920ad-3ecd-4da6-bdd7-5f4e9e09a7bd" />
 
 
 
